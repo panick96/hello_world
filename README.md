@@ -1,11 +1,20 @@
-This was just for practicing git.
+# Hello World
 
-# This is for a header.
+## Overview
 
-**I think this is bold**
+This software is the first step for any programmer. Prints "Hello World!"
 
-``` python
-print("Hello World!")
-print("Hello Mom")
-```
-https://www.markdownguide.org/basic-syntax/
+The purpose for creating this software is to practice using git and setting up my portfolio.
+
+[Software Demo Video](http://youtube.link.goes.here)
+
+## Development Environment
+
+{Describe the tools that you used to develop the software}
+
+This project was coded with Python v3.9.1
+
+## Useful Websites
+
+* [Programmiz Tutorial](https://www.programiz.com/python-programming/examples/hello-world)
+
